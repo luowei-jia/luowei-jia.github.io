@@ -1,13 +1,11 @@
-- National Scholarship of Graduate Student, 2024.
+- 研究生一等学业奖学金, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- 研究生二等奖学金, 2023.
 
-- First-prize Scholarship of CUMT, 2023.
+- 全国大学生计算机应用能力大赛省级一等奖, 2023.
 
-- Freshman Scholarship of CUMT, 2022.
+- 全国大学生英语翻译大赛国家级三等奖, 2023.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 全国大学生英语写作大赛国家级二等奖, 2022.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- 校级三好学生, 2020.
